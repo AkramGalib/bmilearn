@@ -1,0 +1,1 @@
+ /home/akramgalib/Desktop/bmilearn/.dart_tool/flutter_build/5301fa049e98f46765436d3d66f740f5/native_assets.yaml: 
